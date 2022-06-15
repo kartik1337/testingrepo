@@ -1,2 +1,15 @@
-testing the git1
-s
+Commands
+Clone:-
+git clone <reponame>
+Status:-
+git status
+
+Commit:-
+git add .
+
+git commit -m "Testing commit"
+Push:
+git push
+
+Pull:-
+git pull
