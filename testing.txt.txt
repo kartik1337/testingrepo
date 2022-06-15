@@ -12,4 +12,11 @@ Push:
 git push
 
 Pull:-
-git pull
+git pull               
+
+
+
+
+
+
+Added by Akshay
